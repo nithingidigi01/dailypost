@@ -1,0 +1,46 @@
+name: Pellimelam Daily Poster
+
+on:
+  schedule:
+    - cron: "30 2 * * *"  # 8 AM IST
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install System Packages
+        run: |
+          sudo apt update
+          sudo apt install -y nodejs npm
+
+      - name: Install Python
+        run: pip install -r requirements.txt
+
+      - name: Install Ollama
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+          ollama serve &
+          sleep 5
+          ollama pull llama3
+
+      - name: Generate Caption
+        run: python scripts/main.py
+
+      - name: Install Puppeteer
+        run: npm install puppeteer
+
+      - name: Render Poster
+        run: node scripts/render.js
+
+      - name: Send to Telegram
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: |
+          curl -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendPhoto" \
+          -F chat_id=$CHAT_ID \
+          -F photo=@poster.png
