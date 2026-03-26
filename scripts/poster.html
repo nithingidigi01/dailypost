@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+body {
+  margin: 0;
+  width: 1080px;
+  height: 1080px;
+  background: radial-gradient(circle, #111, #000);
+  color: gold;
+  font-family: "Georgia", serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.brand {
+  font-size: 48px;
+  letter-spacing: 4px;
+  margin-bottom: 30px;
+}
+
+.text {
+  font-size: 36px;
+  text-align: center;
+  width: 80%;
+  line-height: 1.6;
+}
+
+.footer {
+  position: absolute;
+  bottom: 80px;
+  text-align: center;
+  font-size: 26px;
+  color: #FFD700;
+}
+</style>
+</head>
+
+<body>
+
+<div class="brand">PELLIMELAM</div>
+
+<div class="text" id="content"></div>
+
+<div class="footer">
+Nadaswaram • Dolu • Saxophone • Drum Vidhwaans<br>
+pellimelam.vidhwaan.com
+</div>
+
+<script>
+fetch("output.txt")
+.then(r => r.text())
+.then(t => document.getElementById("content").innerText = t);
+</script>
+
+</body>
+</html>
