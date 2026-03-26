@@ -1,0 +1,4866 @@
+[
+  {
+    "id": 1,
+    "cat": "Life",
+    "name": "Garbhadhana (Conception Prayer)",
+    "why": "Invoke sacred beginning",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 2,
+    "cat": "Life",
+    "name": "Pumsavana",
+    "why": "Protect unborn child",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 3,
+    "cat": "Life",
+    "name": "Simantonnayana",
+    "why": "Bless mother & fetus",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 4,
+    "cat": "Life",
+    "name": "Birth Welcome",
+    "why": "Celebrate new life",
+    "ref": "Samaveda",
+    "textual_classification": "Vedic"
+  },
+  {
+    "id": 5,
+    "cat": "Life",
+    "name": "Jatakarma",
+    "why": "First purification",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 6,
+    "cat": "Life",
+    "name": "Namakarana",
+    "why": "Identity blessing",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 7,
+    "cat": "Life",
+    "name": "Nishkramana",
+    "why": "First outdoor step",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 8,
+    "cat": "Life",
+    "name": "Annaprashana",
+    "why": "First solid food",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 9,
+    "cat": "Life",
+    "name": "Chudakarana",
+    "why": "Child purification",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 10,
+    "cat": "Life",
+    "name": "Aksharabhyasam",
+    "why": "Start education",
+    "ref": "Natya Shastra",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 11,
+    "cat": "Life",
+    "name": "Upanayana",
+    "why": "Spiritual initiation",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 12,
+    "cat": "Life",
+    "name": "Samavartana",
+    "why": "Completion of study",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 13,
+    "cat": "Life",
+    "name": "Gruhastha Entry",
+    "why": "Enter householder life",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 14,
+    "cat": "Life",
+    "name": "Retirement Ceremony",
+    "why": "Honor elder transition",
+    "ref": "Smriti Tradition",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 15,
+    "cat": "Life",
+    "name": "Antyeshti",
+    "why": "Final rite",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 16,
+    "cat": "Life",
+    "name": "Shraddha",
+    "why": "Ancestor remembrance",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 100,
+    "cat": "Marriage",
+    "name": "Ganapati Puja",
+    "why": "Remove obstacles",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 101,
+    "cat": "Marriage",
+    "name": "Punyahavachanam",
+    "why": "Purification of venue",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 102,
+    "cat": "Marriage",
+    "name": "Nandi Shraddha",
+    "why": "Invoke ancestors",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 103,
+    "cat": "Marriage",
+    "name": "Devata Avahanam",
+    "why": "Invite divine presence",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 104,
+    "cat": "Marriage",
+    "name": "Groom Procession (Baraat)",
+    "why": "Begin marriage journey",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 105,
+    "cat": "Marriage",
+    "name": "Bride Welcome",
+    "why": "Union invocation",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 106,
+    "cat": "Marriage",
+    "name": "Madhuparka",
+    "why": "Honor groom",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 107,
+    "cat": "Marriage",
+    "name": "Kashi Yatra",
+    "why": "Symbolic renunciation",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 108,
+    "cat": "Marriage",
+    "name": "Jeelakarra Bellam",
+    "why": "Permanent bond",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 109,
+    "cat": "Marriage",
+    "name": "Kanyadaanam",
+    "why": "Giving bride",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 110,
+    "cat": "Marriage",
+    "name": "Mangalsutra Dharana",
+    "why": "Sacred commitment",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 111,
+    "cat": "Marriage",
+    "name": "Panigrahana",
+    "why": "Holding hands",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 112,
+    "cat": "Marriage",
+    "name": "Agni Pratishta",
+    "why": "Invoke fire witness",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 113,
+    "cat": "Marriage",
+    "name": "Agni Pradakshina",
+    "why": "Circumambulation of fire",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 114,
+    "cat": "Marriage",
+    "name": "Sapta Padi",
+    "why": "Seven vows",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 115,
+    "cat": "Marriage",
+    "name": "Hridaya Sparsha",
+    "why": "Heart connection",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 116,
+    "cat": "Marriage",
+    "name": "Nagavalli Exchange",
+    "why": "Prosperity symbol",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 117,
+    "cat": "Marriage",
+    "name": "Talambralu",
+    "why": "Harmony ritual",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 118,
+    "cat": "Marriage",
+    "name": "Akshata Talapam",
+    "why": "Blessing grains",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 119,
+    "cat": "Marriage",
+    "name": "Ring Exchange",
+    "why": "Modern unity",
+    "ref": "Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 120,
+    "cat": "Marriage",
+    "name": "Ashirvadam",
+    "why": "Elder blessings",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 121,
+    "cat": "Marriage",
+    "name": "Laja Homam",
+    "why": "Bride offering to fire",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 122,
+    "cat": "Marriage",
+    "name": "Grihapravesam",
+    "why": "Enter marital home",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 123,
+    "cat": "Marriage",
+    "name": "Arundhati Darshanam",
+    "why": "Ideal couple symbol",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 124,
+    "cat": "Marriage",
+    "name": "Dhruva Darshanam",
+    "why": "Stability prayer",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 125,
+    "cat": "Marriage",
+    "name": "Reception Entry",
+    "why": "Public acknowledgment",
+    "ref": "Natya Shastra",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 126,
+    "cat": "Marriage",
+    "name": "First Temple Visit",
+    "why": "Divine gratitude",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 127,
+    "cat": "Marriage",
+    "name": "Kitchen Lighting",
+    "why": "Domestic prosperity",
+    "ref": "Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 128,
+    "cat": "Marriage",
+    "name": "First Family Meal",
+    "why": "Social integration",
+    "ref": "Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 129,
+    "cat": "Marriage",
+    "name": "Post Marriage Satyanarayana Puja",
+    "why": "Household blessing",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 130,
+    "cat": "Marriage",
+    "name": "Bride Farewell (Vidaai)",
+    "why": "Emotional transition",
+    "ref": "Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 131,
+    "cat": "Marriage",
+    "name": "Reception Garland",
+    "why": "Honor couple",
+    "ref": "Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 132,
+    "cat": "Marriage",
+    "name": "Couple Photo Ritual",
+    "why": "Document union",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 133,
+    "cat": "Marriage",
+    "name": "First Night Blessing",
+    "why": "Private sanctification",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 134,
+    "cat": "Marriage",
+    "name": "Joint Prayer",
+    "why": "Spiritual unity",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 135,
+    "cat": "Marriage",
+    "name": "First Anniversary Puja",
+    "why": "Sustain marriage",
+    "ref": "Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 136,
+    "cat": "Marriage",
+    "name": "Return Visit Ceremony",
+    "why": "Family bonding",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 137,
+    "cat": "Marriage",
+    "name": "Navagraha Shanti",
+    "why": "Planetary harmony",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 138,
+    "cat": "Marriage",
+    "name": "Gotra Recitation",
+    "why": "Lineage affirmation",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 139,
+    "cat": "Marriage",
+    "name": "Vastra Dana",
+    "why": "Cloth offering",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 140,
+    "cat": "Marriage",
+    "name": "Tiruvangali",
+    "why": "Protective marking",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 141,
+    "cat": "Marriage",
+    "name": "Sumangali Prarthana",
+    "why": "Longevity prayer",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 142,
+    "cat": "Marriage",
+    "name": "Couple Seating Ceremony",
+    "why": "Shared authority",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 143,
+    "cat": "Marriage",
+    "name": "Blessed Water Sprinkling",
+    "why": "Purification",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 144,
+    "cat": "Marriage",
+    "name": "Final Mangala Arati",
+    "why": "Completion blessing",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 145,
+    "cat": "Marriage",
+    "name": "Community Feast Opening",
+    "why": "Social celebration",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 146,
+    "cat": "Marriage",
+    "name": "Couple Departure",
+    "why": "Close ceremony",
+    "ref": "Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 147,
+    "cat": "Marriage",
+    "name": "First Festival Together",
+    "why": "Shared cultural life",
+    "ref": "Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 148,
+    "cat": "Marriage",
+    "name": "Elder Gift Exchange",
+    "why": "Family unity",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 149,
+    "cat": "Marriage",
+    "name": "Marriage Record Signing",
+    "why": "Legal completion",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 150,
+    "cat": "Marriage",
+    "name": "Final Gratitude Prayer",
+    "why": "Thanksgiving",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 200,
+    "cat": "Temple",
+    "name": "Suprabhatam",
+    "why": "Wake deity",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 201,
+    "cat": "Temple",
+    "name": "Thomala Seva",
+    "why": "Floral offering",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 202,
+    "cat": "Temple",
+    "name": "Archana",
+    "why": "Name chanting",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 203,
+    "cat": "Temple",
+    "name": "Abhishekam",
+    "why": "Purification",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 204,
+    "cat": "Temple",
+    "name": "Naivedyam",
+    "why": "Food offering",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 205,
+    "cat": "Temple",
+    "name": "Deepa Aradhana",
+    "why": "Lamp worship",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 206,
+    "cat": "Temple",
+    "name": "Darshan Opening",
+    "why": "Public blessing",
+    "ref": "Natya Shastra",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 207,
+    "cat": "Temple",
+    "name": "Darshan Closing",
+    "why": "Sacred closure",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 208,
+    "cat": "Temple",
+    "name": "Dolotsavam",
+    "why": "Swing festival",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 209,
+    "cat": "Temple",
+    "name": "Kalyanotsavam",
+    "why": "Divine marriage",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 210,
+    "cat": "Temple",
+    "name": "Brahmotsavam",
+    "why": "Annual grand festival",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 211,
+    "cat": "Temple",
+    "name": "Rathotsavam",
+    "why": "Chariot procession",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 212,
+    "cat": "Temple",
+    "name": "Theppotsavam",
+    "why": "Float festival",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 213,
+    "cat": "Temple",
+    "name": "Sahasra Deepalankara",
+    "why": "1000 lamps offering",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 214,
+    "cat": "Temple",
+    "name": "Prana Pratishta",
+    "why": "Consecration",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 215,
+    "cat": "Temple",
+    "name": "Kumbhabhishekam",
+    "why": "Temple renewal",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 216,
+    "cat": "Temple",
+    "name": "Homam",
+    "why": "Fire purification",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 217,
+    "cat": "Temple",
+    "name": "Chandana Alankaram",
+    "why": "Cooling adornment",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 218,
+    "cat": "Temple",
+    "name": "Vahana Seva",
+    "why": "Processional blessing",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 219,
+    "cat": "Temple",
+    "name": "Pushpa Yagam",
+    "why": "Flower sacrifice",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 220,
+    "cat": "Temple",
+    "name": "Laksha Deepotsavam",
+    "why": "Mass lamp festival",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 221,
+    "cat": "Temple",
+    "name": "Annadanam Opening",
+    "why": "Food charity",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 222,
+    "cat": "Temple",
+    "name": "Sahasra Kalasabhishekam",
+    "why": "1000 pot consecration",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 223,
+    "cat": "Temple",
+    "name": "Vishesha Alankaram",
+    "why": "Special decoration",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 224,
+    "cat": "Temple",
+    "name": "Veda Parayanam",
+    "why": "Scriptural recitation",
+    "ref": "Vedic",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 225,
+    "cat": "Temple",
+    "name": "Divya Prabandham Seva",
+    "why": "Devotional chanting",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 226,
+    "cat": "Temple",
+    "name": "Hanuman Chalisa Path",
+    "why": "Protection prayer",
+    "ref": "Bhakti",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 227,
+    "cat": "Temple",
+    "name": "Rudrabhishekam",
+    "why": "Shiva worship",
+    "ref": "Shaiva Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 228,
+    "cat": "Temple",
+    "name": "Lingodbhava Puja",
+    "why": "Cosmic form worship",
+    "ref": "Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 229,
+    "cat": "Temple",
+    "name": "Navagraha Puja",
+    "why": "Planetary harmony",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 230,
+    "cat": "Temple",
+    "name": "Maha Shivaratri Abhishekam",
+    "why": "Annual Shiva vigil",
+    "ref": "Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 231,
+    "cat": "Temple",
+    "name": "Vaikunta Ekadasi Darshan",
+    "why": "Liberation gateway",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 232,
+    "cat": "Temple",
+    "name": "Rama Navami Utsavam",
+    "why": "Avatar celebration",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 233,
+    "cat": "Temple",
+    "name": "Krishna Janmashtami Utsavam",
+    "why": "Divine birth",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 234,
+    "cat": "Temple",
+    "name": "Ganesh Chaturthi Puja",
+    "why": "Obstacle removal",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 235,
+    "cat": "Temple",
+    "name": "Navaratri Alankaram",
+    "why": "Goddess worship",
+    "ref": "Shakta",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 236,
+    "cat": "Temple",
+    "name": "Varalakshmi Vratham",
+    "why": "Prosperity prayer",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 237,
+    "cat": "Temple",
+    "name": "Ratha Saptami",
+    "why": "Solar blessing",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 238,
+    "cat": "Temple",
+    "name": "Teppam Festival",
+    "why": "Water procession",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 239,
+    "cat": "Temple",
+    "name": "Sudarshana Homam",
+    "why": "Protection ritual",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 240,
+    "cat": "Temple",
+    "name": "Maha Samprokshanam",
+    "why": "Major reconsecration",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 241,
+    "cat": "Temple",
+    "name": "Dwaja Arohanam",
+    "why": "Festival flag hoisting",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 242,
+    "cat": "Temple",
+    "name": "Dwaja Avarohanam",
+    "why": "Festival closure",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 243,
+    "cat": "Temple",
+    "name": "Chariot Parking Ceremony",
+    "why": "Procession completion",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 244,
+    "cat": "Temple",
+    "name": "Night Pallaki Seva",
+    "why": "Night procession",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 245,
+    "cat": "Temple",
+    "name": "Ekanta Seva",
+    "why": "Put deity to rest",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 246,
+    "cat": "Temple",
+    "name": "Mangala Harati",
+    "why": "Auspicious closure",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 247,
+    "cat": "Temple",
+    "name": "Temple Anniversary",
+    "why": "Institutional remembrance",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 248,
+    "cat": "Temple",
+    "name": "Sankatahara Chaturthi",
+    "why": "Problem removal",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 249,
+    "cat": "Temple",
+    "name": "Giripradakshina",
+    "why": "Sacred circumambulation",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 250,
+    "cat": "Temple",
+    "name": "Giri Govardhana Puja",
+    "why": "Nature worship",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 251,
+    "cat": "Temple",
+    "name": "Nitya Annadanam",
+    "why": "Daily food charity",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 252,
+    "cat": "Temple",
+    "name": "Temple Opening Ceremony",
+    "why": "Begin worship service",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 253,
+    "cat": "Temple",
+    "name": "Temple Closing Ceremony",
+    "why": "End worship service",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 254,
+    "cat": "Temple",
+    "name": "Garuda Vahana Seva",
+    "why": "Vishnu procession",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 255,
+    "cat": "Temple",
+    "name": "Simha Vahana Seva",
+    "why": "Goddess procession",
+    "ref": "Shakta",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 256,
+    "cat": "Temple",
+    "name": "Hamsa Vahana Seva",
+    "why": "Spiritual purity",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 257,
+    "cat": "Temple",
+    "name": "Ashwa Vahana Seva",
+    "why": "Victory symbolism",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 258,
+    "cat": "Temple",
+    "name": "Gaja Vahana Seva",
+    "why": "Strength invocation",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 259,
+    "cat": "Temple",
+    "name": "Final Deepa Samarpanam",
+    "why": "Completion offering",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 300,
+    "cat": "Daily",
+    "name": "Brahma Muhurta Awakening",
+    "why": "Spiritual start of day",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 301,
+    "cat": "Daily",
+    "name": "Morning Bath Completion",
+    "why": "Body purification",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 302,
+    "cat": "Daily",
+    "name": "Morning Lamp Lighting",
+    "why": "Invoke divine presence",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 303,
+    "cat": "Daily",
+    "name": "Morning Prayer",
+    "why": "Daily gratitude",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 304,
+    "cat": "Daily",
+    "name": "Tulasi Water Offering",
+    "why": "Plant sanctification",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 305,
+    "cat": "Daily",
+    "name": "Puja Room Opening",
+    "why": "Begin household worship",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 306,
+    "cat": "Daily",
+    "name": "Breakfast Preparation Start",
+    "why": "Bless nourishment",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 307,
+    "cat": "Daily",
+    "name": "Before First Meal",
+    "why": "Food blessing",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 308,
+    "cat": "Daily",
+    "name": "After First Meal",
+    "why": "Thanksgiving",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 309,
+    "cat": "Daily",
+    "name": "Children Leaving for School",
+    "why": "Protection prayer",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 310,
+    "cat": "Daily",
+    "name": "Work Departure Blessing",
+    "why": "Safe journey",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 311,
+    "cat": "Daily",
+    "name": "Midday Lamp",
+    "why": "Sustain positive energy",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 312,
+    "cat": "Daily",
+    "name": "Lunch Offering to Deity",
+    "why": "Divine sharing",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 313,
+    "cat": "Daily",
+    "name": "Afternoon Quiet Prayer",
+    "why": "Mental balance",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 314,
+    "cat": "Daily",
+    "name": "Evening Entrance Lamp",
+    "why": "Welcome family back",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 315,
+    "cat": "Daily",
+    "name": "Sandhya Vandanam",
+    "why": "Twilight worship",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 316,
+    "cat": "Daily",
+    "name": "Evening Puja",
+    "why": "Household harmony",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 317,
+    "cat": "Daily",
+    "name": "Tulasi Deepam",
+    "why": "Plant reverence",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 318,
+    "cat": "Daily",
+    "name": "Before Dinner",
+    "why": "Meal blessing",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 319,
+    "cat": "Daily",
+    "name": "After Dinner",
+    "why": "Gratitude",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 320,
+    "cat": "Daily",
+    "name": "Family Gathering Time",
+    "why": "Unity invocation",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 321,
+    "cat": "Daily",
+    "name": "Study Start Prayer",
+    "why": "Knowledge blessing",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 322,
+    "cat": "Daily",
+    "name": "Exam Preparation Start",
+    "why": "Focus & calm",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 323,
+    "cat": "Daily",
+    "name": "Business Work Start",
+    "why": "Prosperity intention",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 324,
+    "cat": "Daily",
+    "name": "Guest Arrival Welcome",
+    "why": "Honor visitor",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 325,
+    "cat": "Daily",
+    "name": "Guest Departure Blessing",
+    "why": "Safe return",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 326,
+    "cat": "Daily",
+    "name": "Cleaning Completion",
+    "why": "Energy reset",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 327,
+    "cat": "Daily",
+    "name": "Water Pot Filling",
+    "why": "Life element respect",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 328,
+    "cat": "Daily",
+    "name": "Cooking Completion",
+    "why": "Food sanctification",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 329,
+    "cat": "Daily",
+    "name": "New Grocery Arrival",
+    "why": "Household abundance",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 330,
+    "cat": "Daily",
+    "name": "Weekly Oil Lamp Friday",
+    "why": "Lakshmi invocation",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 331,
+    "cat": "Daily",
+    "name": "Weekly Flower Offering",
+    "why": "Devotional refresh",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 332,
+    "cat": "Daily",
+    "name": "Monthly Satyanarayana Prayer",
+    "why": "Home prosperity",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 333,
+    "cat": "Daily",
+    "name": "Amavasya Home Prayer",
+    "why": "Ancestor respect",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 334,
+    "cat": "Daily",
+    "name": "Pournami Home Prayer",
+    "why": "Lunar blessing",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 335,
+    "cat": "Daily",
+    "name": "Ekadasi Household Observance",
+    "why": "Spiritual discipline",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 336,
+    "cat": "Daily",
+    "name": "New Clothes First Wear",
+    "why": "Personal auspiciousness",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 337,
+    "cat": "Daily",
+    "name": "New Utensil First Use",
+    "why": "Domestic blessing",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 338,
+    "cat": "Daily",
+    "name": "Sleeping Prayer",
+    "why": "Night protection",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 339,
+    "cat": "Daily",
+    "name": "Bedroom Lamp Off Ritual",
+    "why": "Day closure",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 340,
+    "cat": "Daily",
+    "name": "House Locking Prayer",
+    "why": "Property protection",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 341,
+    "cat": "Daily",
+    "name": "Late Night Gratitude",
+    "why": "Mental peace",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 342,
+    "cat": "Daily",
+    "name": "Weekly House Deep Cleaning End",
+    "why": "Energy renewal",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 343,
+    "cat": "Daily",
+    "name": "Monthly Storage Refill",
+    "why": "Sustain abundance",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 344,
+    "cat": "Daily",
+    "name": "Family Photo Prayer",
+    "why": "Relationship harmony",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 345,
+    "cat": "Daily",
+    "name": "End-of-Day Lamp",
+    "why": "Complete daily cycle",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 400,
+    "cat": "Festival",
+    "name": "Ugadi",
+    "why": "New year beginning",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 401,
+    "cat": "Festival",
+    "name": "Gudi Padwa",
+    "why": "Spring new year",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 402,
+    "cat": "Festival",
+    "name": "Vishu",
+    "why": "Kerala new year",
+    "ref": "Regional Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 403,
+    "cat": "Festival",
+    "name": "Baisakhi",
+    "why": "Harvest thanksgiving",
+    "ref": "Regional Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 404,
+    "cat": "Festival",
+    "name": "Makara Sankranti",
+    "why": "Solar transition",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 405,
+    "cat": "Festival",
+    "name": "Pongal",
+    "why": "Harvest celebration",
+    "ref": "Regional Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 406,
+    "cat": "Festival",
+    "name": "Ratha Saptami",
+    "why": "Sun worship",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 407,
+    "cat": "Festival",
+    "name": "Maha Shivaratri",
+    "why": "Shiva night vigil",
+    "ref": "Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 408,
+    "cat": "Festival",
+    "name": "Holika Dahan",
+    "why": "Burn negativity",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 409,
+    "cat": "Festival",
+    "name": "Holi",
+    "why": "Joy festival",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 410,
+    "cat": "Festival",
+    "name": "Rama Navami",
+    "why": "Birth of Rama",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 411,
+    "cat": "Festival",
+    "name": "Hanuman Jayanti",
+    "why": "Strength devotion",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 412,
+    "cat": "Festival",
+    "name": "Akshaya Tritiya",
+    "why": "Eternal prosperity",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 413,
+    "cat": "Festival",
+    "name": "Narasimha Jayanti",
+    "why": "Avatar remembrance",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 414,
+    "cat": "Festival",
+    "name": "Vat Savitri Vrata",
+    "why": "Marital longevity",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 415,
+    "cat": "Festival",
+    "name": "Ganga Dussehra",
+    "why": "River sanctity",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 416,
+    "cat": "Festival",
+    "name": "Jagannath Rath Yatra",
+    "why": "Divine procession",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 417,
+    "cat": "Festival",
+    "name": "Guru Purnima",
+    "why": "Teacher reverence",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 418,
+    "cat": "Festival",
+    "name": "Nag Panchami",
+    "why": "Serpent worship",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 419,
+    "cat": "Festival",
+    "name": "Varalakshmi Vratham",
+    "why": "Wealth blessing",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 420,
+    "cat": "Festival",
+    "name": "Raksha Bandhan",
+    "why": "Sibling bond",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 421,
+    "cat": "Festival",
+    "name": "Krishna Janmashtami",
+    "why": "Birth of Krishna",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 422,
+    "cat": "Festival",
+    "name": "Ganesha Chaturthi",
+    "why": "Obstacle removal",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 423,
+    "cat": "Festival",
+    "name": "Hartalika Teej",
+    "why": "Marital prayer",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 424,
+    "cat": "Festival",
+    "name": "Onam",
+    "why": "Kerala harvest",
+    "ref": "Regional Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 425,
+    "cat": "Festival",
+    "name": "Navaratri Begins",
+    "why": "Goddess worship",
+    "ref": "Shakta",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 426,
+    "cat": "Festival",
+    "name": "Durga Ashtami",
+    "why": "Power invocation",
+    "ref": "Shakta",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 427,
+    "cat": "Festival",
+    "name": "Vijaya Dashami",
+    "why": "Victory of dharma",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 428,
+    "cat": "Festival",
+    "name": "Sharad Purnima",
+    "why": "Moon blessing",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 429,
+    "cat": "Festival",
+    "name": "Karva Chauth",
+    "why": "Spouse wellbeing",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 430,
+    "cat": "Festival",
+    "name": "Dhanteras",
+    "why": "Prosperity start",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 431,
+    "cat": "Festival",
+    "name": "Naraka Chaturdashi",
+    "why": "Evil cleansing",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 432,
+    "cat": "Festival",
+    "name": "Deepavali",
+    "why": "Light victory",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 433,
+    "cat": "Festival",
+    "name": "Govardhan Puja",
+    "why": "Nature gratitude",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 434,
+    "cat": "Festival",
+    "name": "Bhai Dooj",
+    "why": "Sibling blessing",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 435,
+    "cat": "Festival",
+    "name": "Skanda Shashti",
+    "why": "Valor worship",
+    "ref": "Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 436,
+    "cat": "Festival",
+    "name": "Karthigai Deepam",
+    "why": "Lamp festival",
+    "ref": "Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 437,
+    "cat": "Festival",
+    "name": "Margazhi Start",
+    "why": "Sacred month",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 438,
+    "cat": "Festival",
+    "name": "Vaikunta Ekadasi",
+    "why": "Liberation gate",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 439,
+    "cat": "Festival",
+    "name": "Bhogi",
+    "why": "Old energy release",
+    "ref": "Regional Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 440,
+    "cat": "Festival",
+    "name": "Thai Pongal",
+    "why": "Sun thanksgiving",
+    "ref": "Regional Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 441,
+    "cat": "Festival",
+    "name": "Mattu Pongal",
+    "why": "Cattle honor",
+    "ref": "Regional Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 442,
+    "cat": "Festival",
+    "name": "Kanuma",
+    "why": "Community bonding",
+    "ref": "Regional Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 443,
+    "cat": "Festival",
+    "name": "Masi Magam",
+    "why": "Sacred bath",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 444,
+    "cat": "Festival",
+    "name": "Chaitra Purnima",
+    "why": "Full moon worship",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 445,
+    "cat": "Festival",
+    "name": "Aadi Perukku",
+    "why": "River gratitude",
+    "ref": "Regional Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 446,
+    "cat": "Festival",
+    "name": "Amavasya Observance",
+    "why": "Ancestor respect",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 447,
+    "cat": "Festival",
+    "name": "Pournami Observance",
+    "why": "Lunar blessing",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 448,
+    "cat": "Festival",
+    "name": "Monthly Ekadasi",
+    "why": "Spiritual discipline",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 449,
+    "cat": "Festival",
+    "name": "Temple Annual Day",
+    "why": "Institution remembrance",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 500,
+    "cat": "Civic",
+    "name": "School Opening Ceremony",
+    "why": "Bless learning space",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 501,
+    "cat": "Civic",
+    "name": "First Day of School",
+    "why": "Child confidence",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 502,
+    "cat": "Civic",
+    "name": "College Admission",
+    "why": "Academic transition",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 503,
+    "cat": "Civic",
+    "name": "Classroom Entry",
+    "why": "Knowledge focus",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 504,
+    "cat": "Civic",
+    "name": "Library Opening",
+    "why": "Wisdom invocation",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 505,
+    "cat": "Civic",
+    "name": "Laboratory Inauguration",
+    "why": "Scientific progress",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 506,
+    "cat": "Civic",
+    "name": "Examination Hall Entry",
+    "why": "Mental stability",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 507,
+    "cat": "Civic",
+    "name": "Results Day Prayer",
+    "why": "Emotional balance",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 508,
+    "cat": "Civic",
+    "name": "Convocation Ceremony",
+    "why": "Honor achievement",
+    "ref": "Natya Shastra",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 509,
+    "cat": "Civic",
+    "name": "Teacher Felicitation",
+    "why": "Respect knowledge givers",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 510,
+    "cat": "Civic",
+    "name": "Student Award Ceremony",
+    "why": "Encourage excellence",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 511,
+    "cat": "Work",
+    "name": "Office Opening",
+    "why": "Prosperous beginning",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 512,
+    "cat": "Work",
+    "name": "First Day at Job",
+    "why": "Career initiation",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 513,
+    "cat": "Work",
+    "name": "New Project Launch",
+    "why": "Positive momentum",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 514,
+    "cat": "Work",
+    "name": "Factory Inauguration",
+    "why": "Production blessing",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 515,
+    "cat": "Work",
+    "name": "Shop Opening",
+    "why": "Business prosperity",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 516,
+    "cat": "Work",
+    "name": "Startup Registration",
+    "why": "Entrepreneur success",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 517,
+    "cat": "Work",
+    "name": "Server / Data Center Launch",
+    "why": "Digital stability",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 518,
+    "cat": "Work",
+    "name": "Product Release",
+    "why": "Market acceptance",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 519,
+    "cat": "Work",
+    "name": "Contract Signing",
+    "why": "Trust affirmation",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 520,
+    "cat": "Work",
+    "name": "Client Welcome",
+    "why": "Relationship building",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 521,
+    "cat": "Work",
+    "name": "Promotion Ceremony",
+    "why": "Career growth",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 522,
+    "cat": "Work",
+    "name": "Salary Credit Day",
+    "why": "Financial gratitude",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 523,
+    "cat": "Work",
+    "name": "Annual Business Review",
+    "why": "Stability reflection",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 524,
+    "cat": "Work",
+    "name": "Retirement Farewell",
+    "why": "Honor service",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 525,
+    "cat": "Civic",
+    "name": "Public Building Opening",
+    "why": "Community blessing",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 526,
+    "cat": "Civic",
+    "name": "Hospital Opening",
+    "why": "Healing space sanctification",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 527,
+    "cat": "Civic",
+    "name": "Bridge Inauguration",
+    "why": "Safe passage",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 528,
+    "cat": "Civic",
+    "name": "Road Opening",
+    "why": "Travel protection",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 529,
+    "cat": "Civic",
+    "name": "Railway Flag Off",
+    "why": "Journey safety",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 530,
+    "cat": "Civic",
+    "name": "Airport Terminal Opening",
+    "why": "Global connection",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 531,
+    "cat": "Civic",
+    "name": "Village Festival Opening",
+    "why": "Community unity",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 532,
+    "cat": "Civic",
+    "name": "Cultural Auditorium Opening",
+    "why": "Arts blessing",
+    "ref": "Natya Shastra",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 533,
+    "cat": "Civic",
+    "name": "Museum Opening",
+    "why": "Heritage preservation",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 534,
+    "cat": "Civic",
+    "name": "Sports Ground Opening",
+    "why": "Youth vitality",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 535,
+    "cat": "Civic",
+    "name": "Community Kitchen Opening",
+    "why": "Food service",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 536,
+    "cat": "Civic",
+    "name": "Old Age Home Opening",
+    "why": "Elder care",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 537,
+    "cat": "Civic",
+    "name": "Orphanage Opening",
+    "why": "Child welfare",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 538,
+    "cat": "Civic",
+    "name": "Public Park Opening",
+    "why": "Nature access",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 539,
+    "cat": "Civic",
+    "name": "Tree Plantation Drive",
+    "why": "Environmental blessing",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 540,
+    "cat": "Civic",
+    "name": "Town Anniversary",
+    "why": "Collective memory",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 541,
+    "cat": "Civic",
+    "name": "Disaster Relief Camp Start",
+    "why": "Humanitarian support",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 542,
+    "cat": "Civic",
+    "name": "Blood Donation Camp",
+    "why": "Life saving service",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 543,
+    "cat": "Civic",
+    "name": "Cleanliness Drive Launch",
+    "why": "Public health",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 544,
+    "cat": "Civic",
+    "name": "Digital Service Launch",
+    "why": "Citizen convenience",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 545,
+    "cat": "Civic",
+    "name": "Local Market Opening",
+    "why": "Economic vitality",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 546,
+    "cat": "Civic",
+    "name": "Election Awareness Program",
+    "why": "Democratic duty",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 547,
+    "cat": "Civic",
+    "name": "Community Meeting Start",
+    "why": "Collective harmony",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 600,
+    "cat": "Health",
+    "name": "Doctor Consultation Start",
+    "why": "Invoke healing intention",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 601,
+    "cat": "Health",
+    "name": "Hospital Admission",
+    "why": "Protection prayer",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 602,
+    "cat": "Health",
+    "name": "Surgery Day Morning",
+    "why": "Mental strength",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 603,
+    "cat": "Health",
+    "name": "Pre-Operation Prayer",
+    "why": "Safe procedure",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 604,
+    "cat": "Health",
+    "name": "Post-Surgery Recovery Start",
+    "why": "Healing energy",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 605,
+    "cat": "Health",
+    "name": "Physiotherapy First Session",
+    "why": "Body restoration",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 606,
+    "cat": "Health",
+    "name": "Chemotherapy Start",
+    "why": "Emotional courage",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 607,
+    "cat": "Health",
+    "name": "Radiation Therapy Begin",
+    "why": "Inner stability",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 608,
+    "cat": "Health",
+    "name": "Discharge Day",
+    "why": "Return to home",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 609,
+    "cat": "Health",
+    "name": "First Walk After Illness",
+    "why": "Physical revival",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 610,
+    "cat": "Health",
+    "name": "Rehabilitation Start",
+    "why": "Long-term recovery",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 611,
+    "cat": "Health",
+    "name": "Mental Health Counseling Begin",
+    "why": "Emotional balance",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 612,
+    "cat": "Health",
+    "name": "Yoga Practice Start",
+    "why": "Mind-body harmony",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 613,
+    "cat": "Health",
+    "name": "Meditation Routine Begin",
+    "why": "Inner peace",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 614,
+    "cat": "Health",
+    "name": "Ayurvedic Treatment Start",
+    "why": "Natural healing",
+    "ref": "Ayurveda",
+    "textual_classification": "Vedic"
+  },
+  {
+    "id": 615,
+    "cat": "Health",
+    "name": "Vaccination Day",
+    "why": "Disease prevention",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 616,
+    "cat": "Health",
+    "name": "Health Checkup Completion",
+    "why": "Gratitude for wellness",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 617,
+    "cat": "Health",
+    "name": "Senior Citizen Medical Review",
+    "why": "Elder care",
+    "ref": "Tradition",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 618,
+    "cat": "Health",
+    "name": "Caregiver Appreciation Moment",
+    "why": "Support recognition",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 619,
+    "cat": "Health",
+    "name": "Return to Work After Illness",
+    "why": "Life resumption",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 620,
+    "cat": "End",
+    "name": "Final Hospital Visit",
+    "why": "Peaceful closure",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 621,
+    "cat": "End",
+    "name": "Passing of Loved One",
+    "why": "Soul transition",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 622,
+    "cat": "End",
+    "name": "Body Home Arrival",
+    "why": "Family farewell",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 623,
+    "cat": "End",
+    "name": "Antyeshti Preparation",
+    "why": "Final rites setup",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 624,
+    "cat": "End",
+    "name": "Antyeshti Ceremony",
+    "why": "Release of soul",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 625,
+    "cat": "End",
+    "name": "Ash Collection",
+    "why": "Sacred remains",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 626,
+    "cat": "End",
+    "name": "Asthi Visarjan",
+    "why": "Return to elements",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 627,
+    "cat": "End",
+    "name": "Third Day Mourning Prayer",
+    "why": "Family healing",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 628,
+    "cat": "End",
+    "name": "Tenth Day Ritual",
+    "why": "Soul journey",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 629,
+    "cat": "End",
+    "name": "Thirteenth Day Ceremony",
+    "why": "Completion of mourning",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 630,
+    "cat": "End",
+    "name": "First Annual Shraddha",
+    "why": "Ancestor remembrance",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 631,
+    "cat": "End",
+    "name": "Monthly Amavasya Prayer",
+    "why": "Pitru respect",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 632,
+    "cat": "End",
+    "name": "Memorial Gathering",
+    "why": "Collective remembrance",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 633,
+    "cat": "End",
+    "name": "Photograph Garland Ceremony",
+    "why": "Honor departed",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 634,
+    "cat": "End",
+    "name": "Tree Planting in Memory",
+    "why": "Life continuity",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 635,
+    "cat": "End",
+    "name": "Charity in Name of Departed",
+    "why": "Merit offering",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 636,
+    "cat": "End",
+    "name": "Elder Life Story Sharing",
+    "why": "Legacy preservation",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 637,
+    "cat": "End",
+    "name": "Family Healing Meeting",
+    "why": "Emotional recovery",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 638,
+    "cat": "End",
+    "name": "Yearly Death Anniversary",
+    "why": "Continued remembrance",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 639,
+    "cat": "End",
+    "name": "Community Condolence Meet",
+    "why": "Social support",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 640,
+    "cat": "End",
+    "name": "Final Gratitude Prayer",
+    "why": "Acceptance & peace",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 641,
+    "cat": "End",
+    "name": "Legacy Donation Ceremony",
+    "why": "Service continuation",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 700,
+    "cat": "Regional",
+    "name": "Bhogi Mantalu",
+    "why": "Burn old energy",
+    "ref": "Andhra Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 701,
+    "cat": "Regional",
+    "name": "Kanuma Pooja",
+    "why": "Cattle gratitude",
+    "ref": "Andhra Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 702,
+    "cat": "Regional",
+    "name": "Muggulu Drawing Day",
+    "why": "Invite prosperity",
+    "ref": "Andhra Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 703,
+    "cat": "Regional",
+    "name": "Gowri Habba (Telangana)",
+    "why": "Goddess worship",
+    "ref": "Regional",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 704,
+    "cat": "Regional",
+    "name": "Poleramma Jatara",
+    "why": "Village protection",
+    "ref": "Andhra Folk",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 705,
+    "cat": "Regional",
+    "name": "Gangamma Jatara",
+    "why": "Local deity honor",
+    "ref": "Andhra Folk",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 706,
+    "cat": "Regional",
+    "name": "Sammakka Saralamma Medaram",
+    "why": "Tribal goddess fair",
+    "ref": "Telangana Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 707,
+    "cat": "Regional",
+    "name": "Peddamma Talli Bonalu",
+    "why": "Shakti worship",
+    "ref": "Telangana",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 708,
+    "cat": "Regional",
+    "name": "Nagula Chavithi",
+    "why": "Serpent reverence",
+    "ref": "Andhra Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 709,
+    "cat": "Regional",
+    "name": "Kalyanotsavam Village Style",
+    "why": "Community bonding",
+    "ref": "Andhra Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 710,
+    "cat": "Regional",
+    "name": "Aadi Perukku",
+    "why": "River gratitude",
+    "ref": "Tamil Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 711,
+    "cat": "Regional",
+    "name": "Thai Amavasai",
+    "why": "Ancestor worship",
+    "ref": "Tamil Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 712,
+    "cat": "Regional",
+    "name": "Panguni Uthiram",
+    "why": "Divine marriages",
+    "ref": "Tamil Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 713,
+    "cat": "Regional",
+    "name": "Thaipusam",
+    "why": "Murugan devotion",
+    "ref": "Tamil Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 714,
+    "cat": "Regional",
+    "name": "Chithirai Festival",
+    "why": "Meenakshi wedding",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 715,
+    "cat": "Regional",
+    "name": "Karthigai Deepam Hill Lighting",
+    "why": "Sacred fire",
+    "ref": "Tamil Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 716,
+    "cat": "Regional",
+    "name": "Margazhi Kolam Month",
+    "why": "Daily auspicious art",
+    "ref": "Tamil Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 717,
+    "cat": "Regional",
+    "name": "Vaikasi Visakam",
+    "why": "Murugan birth",
+    "ref": "Tamil Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 718,
+    "cat": "Regional",
+    "name": "Maasi Magam Bath",
+    "why": "Sacred dip",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 719,
+    "cat": "Regional",
+    "name": "Thiruvathirai",
+    "why": "Cosmic dance",
+    "ref": "Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 720,
+    "cat": "Regional",
+    "name": "Karaga Festival",
+    "why": "Draupadi worship",
+    "ref": "Bangalore Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 721,
+    "cat": "Regional",
+    "name": "Hampi Virupaksha Car Festival",
+    "why": "Temple procession",
+    "ref": "Karnataka",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 722,
+    "cat": "Regional",
+    "name": "Mysore Dasara",
+    "why": "Royal Navaratri",
+    "ref": "Karnataka",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 723,
+    "cat": "Regional",
+    "name": "Kambala",
+    "why": "Agrarian sport",
+    "ref": "Tulunadu",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 724,
+    "cat": "Regional",
+    "name": "Hosa Todaku",
+    "why": "New clothes ritual",
+    "ref": "Karnataka",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 725,
+    "cat": "Regional",
+    "name": "Banashankari Jatre",
+    "why": "Village deity fair",
+    "ref": "Karnataka",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 726,
+    "cat": "Regional",
+    "name": "Kukke Subramanya Sarpa Seva",
+    "why": "Snake appeasement",
+    "ref": "Karnataka",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 727,
+    "cat": "Regional",
+    "name": "Dharmasthala Lakshadeepotsava",
+    "why": "Lamp festival",
+    "ref": "Karnataka",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 728,
+    "cat": "Regional",
+    "name": "Chamundeshwari Jatre",
+    "why": "Goddess worship",
+    "ref": "Mysore",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 729,
+    "cat": "Regional",
+    "name": "Tulasi Katte Puja",
+    "why": "Plant sanctity",
+    "ref": "Karnataka",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 730,
+    "cat": "Regional",
+    "name": "Attukal Pongala",
+    "why": "Women devotion",
+    "ref": "Kerala Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 731,
+    "cat": "Regional",
+    "name": "Vishu Kani",
+    "why": "Auspicious sight",
+    "ref": "Kerala",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 732,
+    "cat": "Regional",
+    "name": "Thrissur Pooram",
+    "why": "Elephant festival",
+    "ref": "Kerala",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 733,
+    "cat": "Regional",
+    "name": "Theyyam",
+    "why": "Spirit ritual",
+    "ref": "Kerala Folk",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 734,
+    "cat": "Regional",
+    "name": "Guruvayur Ekadasi",
+    "why": "Krishna worship",
+    "ref": "Kerala",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 735,
+    "cat": "Regional",
+    "name": "Navaratri Saraswati Puja",
+    "why": "Education blessing",
+    "ref": "Kerala",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 736,
+    "cat": "Regional",
+    "name": "Aranmula Boat Race",
+    "why": "Temple offering",
+    "ref": "Kerala",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 737,
+    "cat": "Regional",
+    "name": "Thiruvathira Kali",
+    "why": "Women unity",
+    "ref": "Kerala",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 738,
+    "cat": "Regional",
+    "name": "Kalpathi Ratholsavam",
+    "why": "Chariot festival",
+    "ref": "Kerala",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 739,
+    "cat": "Regional",
+    "name": "Puthari Thullal",
+    "why": "Harvest start",
+    "ref": "Kerala",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 740,
+    "cat": "Regional",
+    "name": "Chhath Puja",
+    "why": "Sun gratitude",
+    "ref": "Bihar Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 741,
+    "cat": "Regional",
+    "name": "Ganga Aarti Varanasi",
+    "why": "River worship",
+    "ref": "North India",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 742,
+    "cat": "Regional",
+    "name": "Govardhan Annakut",
+    "why": "Food mountain",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 743,
+    "cat": "Regional",
+    "name": "Teej Festival",
+    "why": "Marital prayer",
+    "ref": "Rajasthan",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 744,
+    "cat": "Regional",
+    "name": "Gangaur",
+    "why": "Gauri devotion",
+    "ref": "Rajasthan",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 745,
+    "cat": "Regional",
+    "name": "Kartik Purnima Pushkar",
+    "why": "Holy bath",
+    "ref": "North India",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 746,
+    "cat": "Regional",
+    "name": "Ram Lila Opening",
+    "why": "Epic narration",
+    "ref": "Awadhi",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 747,
+    "cat": "Regional",
+    "name": "Mathura Holi",
+    "why": "Krishna play",
+    "ref": "Braj",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 748,
+    "cat": "Regional",
+    "name": "Vindhyavasini Devi Fair",
+    "why": "Shakti worship",
+    "ref": "UP",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 749,
+    "cat": "Regional",
+    "name": "Ayodhya Deepotsav",
+    "why": "Ram lamp festival",
+    "ref": "UP",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 800,
+    "cat": "TempleFestival",
+    "name": "Vaikunta Ekadasi Utsavam",
+    "why": "Gateway to liberation",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 801,
+    "cat": "TempleFestival",
+    "name": "Brahmotsavam Tirumala",
+    "why": "Annual Vishnu festival",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 802,
+    "cat": "TempleFestival",
+    "name": "Garuda Seva",
+    "why": "Vishnu procession",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 803,
+    "cat": "TempleFestival",
+    "name": "Rama Navami Kalyanam",
+    "why": "Rama divine wedding",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 804,
+    "cat": "TempleFestival",
+    "name": "Sita Rama Pattabhishekam",
+    "why": "Coronation ritual",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 805,
+    "cat": "TempleFestival",
+    "name": "Krishna Vasanthotsavam",
+    "why": "Spring celebration",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 806,
+    "cat": "TempleFestival",
+    "name": "Dolotsavam Krishna",
+    "why": "Swing festival",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 807,
+    "cat": "TempleFestival",
+    "name": "Anjaneya Jayanthi",
+    "why": "Hanuman birth",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 808,
+    "cat": "TempleFestival",
+    "name": "Sudarsana Jayanthi",
+    "why": "Divine chakra worship",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 809,
+    "cat": "TempleFestival",
+    "name": "Pushpa Yagam Vishnu",
+    "why": "Flower offering",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 810,
+    "cat": "TempleFestival",
+    "name": "Rathasapthami Surya Utsavam",
+    "why": "Sun worship",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 811,
+    "cat": "TempleFestival",
+    "name": "Adhyayana Utsavam",
+    "why": "Scripture recitation",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 812,
+    "cat": "TempleFestival",
+    "name": "Thiruppavai Month Observance",
+    "why": "Andal devotion",
+    "ref": "Tamil Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 813,
+    "cat": "TempleFestival",
+    "name": "Pavitrotsavam Vishnu",
+    "why": "Ritual purification",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 814,
+    "cat": "TempleFestival",
+    "name": "Narasimha Jayanthi",
+    "why": "Avatar remembrance",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 815,
+    "cat": "TempleFestival",
+    "name": "Garuda Panchami",
+    "why": "Garuda worship",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 816,
+    "cat": "TempleFestival",
+    "name": "Sri Rama Pattabhishekam",
+    "why": "Royal coronation",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 817,
+    "cat": "TempleFestival",
+    "name": "Maha Shivaratri Utsavam",
+    "why": "Shiva cosmic night",
+    "ref": "Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 818,
+    "cat": "TempleFestival",
+    "name": "Pradosha Puja",
+    "why": "Twilight Shiva worship",
+    "ref": "Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 819,
+    "cat": "TempleFestival",
+    "name": "Arudra Darshanam",
+    "why": "Cosmic dance",
+    "ref": "Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 820,
+    "cat": "TempleFestival",
+    "name": "Thiruvathirai Utsavam",
+    "why": "Nataraja celebration",
+    "ref": "Tamil Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 821,
+    "cat": "TempleFestival",
+    "name": "Lingodbhava Festival",
+    "why": "Shiva infinite form",
+    "ref": "Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 822,
+    "cat": "TempleFestival",
+    "name": "Skanda Shashti Utsavam",
+    "why": "Murugan victory",
+    "ref": "Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 823,
+    "cat": "TempleFestival",
+    "name": "Karthigai Deepam Utsavam",
+    "why": "Sacred fire",
+    "ref": "Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 824,
+    "cat": "TempleFestival",
+    "name": "Mahotsavam Chidambaram",
+    "why": "Nataraja annual fest",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 825,
+    "cat": "TempleFestival",
+    "name": "Panguni Uthiram Murugan",
+    "why": "Divine marriages",
+    "ref": "Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 826,
+    "cat": "TempleFestival",
+    "name": "Girivalam Full Moon",
+    "why": "Sacred circumambulation",
+    "ref": "Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 827,
+    "cat": "TempleFestival",
+    "name": "Mahamagam Bath Festival",
+    "why": "River sanctity",
+    "ref": "Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 828,
+    "cat": "TempleFestival",
+    "name": "Soma Pradosham",
+    "why": "Moon Shiva worship",
+    "ref": "Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 829,
+    "cat": "TempleFestival",
+    "name": "Shiva Ratri Abhishekam",
+    "why": "Night vigil worship",
+    "ref": "Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 830,
+    "cat": "TempleFestival",
+    "name": "Navaratri Brahmotsavam",
+    "why": "Goddess nine nights",
+    "ref": "Shakta",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 831,
+    "cat": "TempleFestival",
+    "name": "Durga Ashtami",
+    "why": "Power invocation",
+    "ref": "Shakta",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 832,
+    "cat": "TempleFestival",
+    "name": "Vijaya Dashami Temple Utsavam",
+    "why": "Victory of dharma",
+    "ref": "Shakta",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 833,
+    "cat": "TempleFestival",
+    "name": "Lalitha Sahasranama Archana Day",
+    "why": "Divine feminine praise",
+    "ref": "Shakta",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 834,
+    "cat": "TempleFestival",
+    "name": "Ambal Float Festival",
+    "why": "Water procession",
+    "ref": "Shakta",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 835,
+    "cat": "TempleFestival",
+    "name": "Meenakshi Thirukalyanam",
+    "why": "Goddess marriage",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 836,
+    "cat": "TempleFestival",
+    "name": "Kamakhya Ambubachi",
+    "why": "Fertility worship",
+    "ref": "Shakta",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 837,
+    "cat": "TempleFestival",
+    "name": "Attukal Pongala",
+    "why": "Women offering",
+    "ref": "Kerala Shakta",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 838,
+    "cat": "TempleFestival",
+    "name": "Bonalu Temple Utsavam",
+    "why": "Village goddess",
+    "ref": "Telangana",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 839,
+    "cat": "TempleFestival",
+    "name": "Chamundeshwari Rathotsavam",
+    "why": "Royal goddess fest",
+    "ref": "Karnataka",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 840,
+    "cat": "TempleFestival",
+    "name": "Kumbh Mela",
+    "why": "Mass pilgrimage",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 841,
+    "cat": "TempleFestival",
+    "name": "Pushkaram River Festival",
+    "why": "Sacred river cycle",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 842,
+    "cat": "TempleFestival",
+    "name": "Jagannath Rath Yatra",
+    "why": "Universal chariot fest",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 843,
+    "cat": "TempleFestival",
+    "name": "Tiruvalluvar Day Temple Observance",
+    "why": "Saint remembrance",
+    "ref": "Tamil",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 844,
+    "cat": "TempleFestival",
+    "name": "Adi Perukku Temple Event",
+    "why": "River blessing",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 845,
+    "cat": "TempleFestival",
+    "name": "Guru Peyarchi Temple Day",
+    "why": "Planetary transition",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 846,
+    "cat": "TempleFestival",
+    "name": "Thai Poosam",
+    "why": "Murugan devotion",
+    "ref": "Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 847,
+    "cat": "TempleFestival",
+    "name": "Ratha Saptami Temple Procession",
+    "why": "Solar blessing",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 848,
+    "cat": "TempleFestival",
+    "name": "Margazhi Bhajan Utsavam",
+    "why": "Winter devotion",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 849,
+    "cat": "TempleFestival",
+    "name": "Annual Temple Anniversary",
+    "why": "Institutional remembrance",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 850,
+    "cat": "TempleFestival",
+    "name": "Deepotsavam Temple Lamps",
+    "why": "Mass illumination",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 851,
+    "cat": "TempleFestival",
+    "name": "Vaikasi Visakam",
+    "why": "Murugan birth",
+    "ref": "Shaiva",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 852,
+    "cat": "TempleFestival",
+    "name": "Chitra Pournami",
+    "why": "Full moon worship",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 853,
+    "cat": "TempleFestival",
+    "name": "Adi Amavasya",
+    "why": "Ancestor rites",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 854,
+    "cat": "TempleFestival",
+    "name": "Mahalaya Amavasya",
+    "why": "Pitru paksha start",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 855,
+    "cat": "TempleFestival",
+    "name": "Kartika Masam Temple Observance",
+    "why": "Sacred month",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 856,
+    "cat": "TempleFestival",
+    "name": "Dhanurmasa Puja",
+    "why": "Winter worship",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 857,
+    "cat": "TempleFestival",
+    "name": "Sri Andal Neerattu",
+    "why": "Sacred bathing",
+    "ref": "Tamil Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 858,
+    "cat": "TempleFestival",
+    "name": "Vaikunta Dwaram Opening",
+    "why": "Liberation ritual",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 859,
+    "cat": "TempleFestival",
+    "name": "Sankatahara Chaturthi Temple Puja",
+    "why": "Obstacle relief",
+    "ref": "Puranic",
+    "textual_classification": "Puranic"
+  },
+  {
+    "id": 860,
+    "cat": "TempleFestival",
+    "name": "Temple Year End Puja",
+    "why": "Annual closure",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 900,
+    "cat": "Timeline",
+    "name": "Brahma Muhurta Awakening (4:00 AM)",
+    "why": "Highest spiritual clarity",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 901,
+    "cat": "Timeline",
+    "name": "Morning Cleansing Complete (5:00 AM)",
+    "why": "Physical & energetic purification",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 902,
+    "cat": "Timeline",
+    "name": "Dawn Lamp Lighting (5:30 AM)",
+    "why": "Invite divine presence",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 903,
+    "cat": "Timeline",
+    "name": "Morning Prayer & Chanting (6:00 AM)",
+    "why": "Set intention for day",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 904,
+    "cat": "Timeline",
+    "name": "Tulasi / Plant Offering (6:30 AM)",
+    "why": "Honor living nature",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 905,
+    "cat": "Timeline",
+    "name": "Breakfast Preparation Start (7:00 AM)",
+    "why": "Bless nourishment",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 906,
+    "cat": "Timeline",
+    "name": "Before First Meal (8:00 AM)",
+    "why": "Food sanctification",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 907,
+    "cat": "Timeline",
+    "name": "Children School Departure (8:30 AM)",
+    "why": "Protection prayer",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 908,
+    "cat": "Timeline",
+    "name": "Workday Commencement (9:00 AM)",
+    "why": "Prosperous action",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 909,
+    "cat": "Timeline",
+    "name": "Mid-Morning Gratitude Pause (10:30 AM)",
+    "why": "Mental balance",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 910,
+    "cat": "Timeline",
+    "name": "Midday Offering / Lunch Blessing (12:00 PM)",
+    "why": "Divine sharing",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 911,
+    "cat": "Timeline",
+    "name": "Afternoon Quiet Moment (2:00 PM)",
+    "why": "Energy stabilization",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 912,
+    "cat": "Timeline",
+    "name": "Evening Return Lamp (5:30 PM)",
+    "why": "Welcome household energy",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 913,
+    "cat": "Timeline",
+    "name": "Sandhya Vandanam (6:00 PM)",
+    "why": "Twilight purification",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 914,
+    "cat": "Timeline",
+    "name": "Evening Puja (6:30 PM)",
+    "why": "Family harmony",
+    "ref": "Agama",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 915,
+    "cat": "Timeline",
+    "name": "Tulasi Deepam (7:00 PM)",
+    "why": "Sustain sacred atmosphere",
+    "ref": "Vaishnava",
+    "textual_classification": "Agama"
+  },
+  {
+    "id": 916,
+    "cat": "Timeline",
+    "name": "Before Dinner (7:30 PM)",
+    "why": "Meal gratitude",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 917,
+    "cat": "Timeline",
+    "name": "Family Gathering Time (8:30 PM)",
+    "why": "Relationship bonding",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 918,
+    "cat": "Timeline",
+    "name": "Study / Reflection Hour (9:00 PM)",
+    "why": "Knowledge continuity",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 919,
+    "cat": "Timeline",
+    "name": "Night Prayer (9:30 PM)",
+    "why": "Day completion",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 920,
+    "cat": "Timeline",
+    "name": "Bedroom Lamp Off Ritual (10:00 PM)",
+    "why": "Energy closure",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 921,
+    "cat": "Timeline",
+    "name": "Sleeping Gratitude (10:30 PM)",
+    "why": "Peaceful rest",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 922,
+    "cat": "Timeline",
+    "name": "Midnight Mental Stillness (12:00 AM)",
+    "why": "Subconscious reset",
+    "ref": "Yogic Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 923,
+    "cat": "Timeline",
+    "name": "Deep Sleep Sacred Phase (2:00 AM)",
+    "why": "Body restoration",
+    "ref": "Ayurveda",
+    "textual_classification": "Vedic"
+  },
+  {
+    "id": 1000,
+    "cat": "Life",
+    "name": "Progeny Prayer (Santana Kamya)",
+    "why": "Invoke fertility",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1001,
+    "cat": "Life",
+    "name": "Conception Muhurta Selection",
+    "why": "Auspicious timing",
+    "ref": "Grihya Tradition",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1002,
+    "cat": "Life",
+    "name": "Prenatal Mother Blessing",
+    "why": "Protect pregnancy",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1003,
+    "cat": "Life",
+    "name": "Cradle Preparation Ceremony",
+    "why": "Welcome newborn",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1004,
+    "cat": "Life",
+    "name": "First Honey / Ghee Touch",
+    "why": "Infant vitality",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1005,
+    "cat": "Life",
+    "name": "Baby Home Arrival Rite",
+    "why": "House sanctification",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1006,
+    "cat": "Life",
+    "name": "Ear Piercing (Karnavedha)",
+    "why": "Open senses",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1007,
+    "cat": "Life",
+    "name": "First Tooth Celebration",
+    "why": "Growth milestone",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1008,
+    "cat": "Life",
+    "name": "Child First Festival",
+    "why": "Social introduction",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1009,
+    "cat": "Life",
+    "name": "Child First Temple Visit",
+    "why": "Divine gratitude",
+    "ref": "Temple Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1010,
+    "cat": "Life",
+    "name": "Toy / Learning Tool Blessing",
+    "why": "Early learning",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1011,
+    "cat": "Life",
+    "name": "Vaccination Prayer",
+    "why": "Health protection",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1012,
+    "cat": "Life",
+    "name": "School Admission Blessing",
+    "why": "Education start",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1013,
+    "cat": "Life",
+    "name": "First Exam Prayer",
+    "why": "Mental strength",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1014,
+    "cat": "Life",
+    "name": "Coming-of-Age Ceremony (Boy)",
+    "why": "Youth transition",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1015,
+    "cat": "Life",
+    "name": "Menarche Ceremony (Girl)",
+    "why": "Womanhood blessing",
+    "ref": "Regional Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1016,
+    "cat": "Life",
+    "name": "First Shave (Kesanta)",
+    "why": "Adolescence rite",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1017,
+    "cat": "Life",
+    "name": "Career Choice Prayer",
+    "why": "Life direction",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1018,
+    "cat": "Life",
+    "name": "Matchmaking Prayer",
+    "why": "Marriage preparation",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1019,
+    "cat": "Life",
+    "name": "Horoscope Matching Rite",
+    "why": "Compatibility",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1020,
+    "cat": "Life",
+    "name": "Engagement Ceremony",
+    "why": "Formal commitment",
+    "ref": "Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1021,
+    "cat": "Life",
+    "name": "Pre-Marriage Ancestor Tarpanam",
+    "why": "Lineage blessing",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1022,
+    "cat": "Life",
+    "name": "House Entry after Marriage",
+    "why": "New household",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1023,
+    "cat": "Life",
+    "name": "First Harvest Offering",
+    "why": "Food gratitude",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1024,
+    "cat": "Life",
+    "name": "First Child Expectation Prayer",
+    "why": "Family expansion",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1025,
+    "cat": "Life",
+    "name": "Midlife Gratitude Puja",
+    "why": "Life reflection",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1026,
+    "cat": "Life",
+    "name": "Elder Honor Ceremony",
+    "why": "Respect aging",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1027,
+    "cat": "Life",
+    "name": "Retirement Blessing",
+    "why": "Work completion",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1028,
+    "cat": "Life",
+    "name": "Senior Health Prayer",
+    "why": "Longevity",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1029,
+    "cat": "Life",
+    "name": "Family Legacy Sharing",
+    "why": "Transmit values",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1030,
+    "cat": "Life",
+    "name": "Pre-Departure Pilgrimage Rite",
+    "why": "Safe journey",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1031,
+    "cat": "Life",
+    "name": "Return from Pilgrimage",
+    "why": "Thanksgiving",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1032,
+    "cat": "Life",
+    "name": "Terminal Care Prayer",
+    "why": "Peaceful transition",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1033,
+    "cat": "Life",
+    "name": "Final Farewell Gathering",
+    "why": "Family closure",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1034,
+    "cat": "Life",
+    "name": "Ash Collection Ceremony",
+    "why": "Sacred remains",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1035,
+    "cat": "Life",
+    "name": "Asthi Visarjan",
+    "why": "Return to elements",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1036,
+    "cat": "Life",
+    "name": "Third-Day Mourning Rite",
+    "why": "Family healing",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1037,
+    "cat": "Life",
+    "name": "Tenth-Day Ceremony",
+    "why": "Soul journey",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1038,
+    "cat": "Life",
+    "name": "Thirteenth-Day Ceremony",
+    "why": "Close mourning",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1039,
+    "cat": "Life",
+    "name": "First Annual Shraddha",
+    "why": "Ancestor continuity",
+    "ref": "Grihya Sutras",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1040,
+    "cat": "Life",
+    "name": "Memorial Charity",
+    "why": "Merit offering",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1041,
+    "cat": "Life",
+    "name": "Tree Planting in Memory",
+    "why": "Life continuity",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1042,
+    "cat": "Life",
+    "name": "Yearly Death Anniversary",
+    "why": "Ongoing remembrance",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1043,
+    "cat": "Life",
+    "name": "Family Healing Meeting",
+    "why": "Emotional recovery",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1100,
+    "cat": "Agri",
+    "name": "Land Blessing Before Ploughing",
+    "why": "Prepare earth",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1101,
+    "cat": "Agri",
+    "name": "First Plough Ceremony",
+    "why": "Invoke fertility",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1102,
+    "cat": "Agri",
+    "name": "Seed Selection Ritual",
+    "why": "Healthy crops",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1103,
+    "cat": "Agri",
+    "name": "Seed Soaking Prayer",
+    "why": "Life activation",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1104,
+    "cat": "Agri",
+    "name": "First Sowing Day",
+    "why": "Crop beginning",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1105,
+    "cat": "Agri",
+    "name": "Rain Invocation Prayer",
+    "why": "Monsoon calling",
+    "ref": "Vedic",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1106,
+    "cat": "Agri",
+    "name": "Field Boundary Worship",
+    "why": "Land protection",
+    "ref": "Regional",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1107,
+    "cat": "Agri",
+    "name": "Sapling Transplant Ceremony",
+    "why": "Plant vitality",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1108,
+    "cat": "Agri",
+    "name": "Irrigation Channel Opening",
+    "why": "Water blessing",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1109,
+    "cat": "Agri",
+    "name": "First Sprout Celebration",
+    "why": "Growth gratitude",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1110,
+    "cat": "Agri",
+    "name": "Weeding Start Ritual",
+    "why": "Remove obstacles",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1111,
+    "cat": "Agri",
+    "name": "Mid-Growth Field Puja",
+    "why": "Crop protection",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1112,
+    "cat": "Agri",
+    "name": "Pest Protection Prayer",
+    "why": "Prevent loss",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1113,
+    "cat": "Agri",
+    "name": "Cattle Blessing Day",
+    "why": "Farm strength",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1114,
+    "cat": "Agri",
+    "name": "Bullock Worship",
+    "why": "Labor gratitude",
+    "ref": "Regional",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1115,
+    "cat": "Agri",
+    "name": "Scarecrow Installation Rite",
+    "why": "Crop safeguarding",
+    "ref": "Folk",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1116,
+    "cat": "Agri",
+    "name": "Pre-Harvest Field Walk",
+    "why": "Assess readiness",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1117,
+    "cat": "Agri",
+    "name": "First Harvest Cutting",
+    "why": "Begin harvest",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1118,
+    "cat": "Agri",
+    "name": "Sheaf Offering to Deity",
+    "why": "Thanksgiving",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1119,
+    "cat": "Agri",
+    "name": "Full Harvest Completion",
+    "why": "Yield gratitude",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1120,
+    "cat": "Agri",
+    "name": "Threshing Floor Opening",
+    "why": "Grain processing",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1121,
+    "cat": "Agri",
+    "name": "First Grain Home Entry",
+    "why": "House prosperity",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1122,
+    "cat": "Agri",
+    "name": "Granary Filling Ceremony",
+    "why": "Food security",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1123,
+    "cat": "Agri",
+    "name": "Seed Saving Ritual",
+    "why": "Future crops",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1124,
+    "cat": "Agri",
+    "name": "Market Sale First Day",
+    "why": "Economic return",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1125,
+    "cat": "Agri",
+    "name": "Crop Residue Burning Rite",
+    "why": "Field renewal",
+    "ref": "Regional",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1126,
+    "cat": "Agri",
+    "name": "Post-Harvest Rest Day",
+    "why": "Human recovery",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1127,
+    "cat": "Agri",
+    "name": "Seasonal Tool Cleaning",
+    "why": "Prepare next cycle",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1128,
+    "cat": "Agri",
+    "name": "Monsoon Arrival Welcome",
+    "why": "Seasonal shift",
+    "ref": "Regional",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1129,
+    "cat": "Agri",
+    "name": "Winter Crop Preparation",
+    "why": "Second cycle start",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1130,
+    "cat": "Agri",
+    "name": "Summer Field Closure",
+    "why": "Soil rest",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1131,
+    "cat": "Agri",
+    "name": "Village Common Land Puja",
+    "why": "Community farming",
+    "ref": "Regional",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1132,
+    "cat": "Agri",
+    "name": "River Water Fetching Day",
+    "why": "Irrigation source",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1133,
+    "cat": "Agri",
+    "name": "Tank / Pond Desilting Start",
+    "why": "Water renewal",
+    "ref": "Regional",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1134,
+    "cat": "Agri",
+    "name": "Tree Plantation on Farm",
+    "why": "Ecological balance",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1135,
+    "cat": "Agri",
+    "name": "Beehive Installation",
+    "why": "Pollination support",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1136,
+    "cat": "Agri",
+    "name": "Season Closing Prayer",
+    "why": "Cycle completion",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1137,
+    "cat": "Agri",
+    "name": "Yearly Land Gratitude Puja",
+    "why": "Earth respect",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1138,
+    "cat": "Agri",
+    "name": "Farm Family Feast",
+    "why": "Collective joy",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1139,
+    "cat": "Agri",
+    "name": "Next Season Planning Day",
+    "why": "Future readiness",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1200,
+    "cat": "Business",
+    "name": "Company Incorporation",
+    "why": "Legal birth of enterprise",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1201,
+    "cat": "Business",
+    "name": "Director Appointment Ceremony",
+    "why": "Leadership start",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1202,
+    "cat": "Business",
+    "name": "Share Certificate Issue",
+    "why": "Ownership formalization",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1203,
+    "cat": "Business",
+    "name": "PAN / GST Activation",
+    "why": "Operational readiness",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1204,
+    "cat": "Business",
+    "name": "Bank Account Opening",
+    "why": "Financial flow begin",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1205,
+    "cat": "Business",
+    "name": "Office Key Handover",
+    "why": "Workspace possession",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1206,
+    "cat": "Business",
+    "name": "Office Interior Completion",
+    "why": "Functional readiness",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1207,
+    "cat": "Business",
+    "name": "Branch Office Opening",
+    "why": "Geographic expansion",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1208,
+    "cat": "Business",
+    "name": "Website Launch",
+    "why": "Digital presence",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1209,
+    "cat": "Business",
+    "name": "Domain Purchase",
+    "why": "Brand identity",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1210,
+    "cat": "Business",
+    "name": "Payment Gateway Activation",
+    "why": "Revenue enablement",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1211,
+    "cat": "Business",
+    "name": "Accounting System Setup",
+    "why": "Financial discipline",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1212,
+    "cat": "Business",
+    "name": "ERP Deployment",
+    "why": "Operational integration",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1213,
+    "cat": "Business",
+    "name": "First Customer Sale",
+    "why": "Market validation",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1214,
+    "cat": "Business",
+    "name": "Invoice Generation Start",
+    "why": "Cashflow tracking",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1215,
+    "cat": "Business",
+    "name": "Vendor Onboarding",
+    "why": "Supply readiness",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1216,
+    "cat": "Business",
+    "name": "First Salary Payroll",
+    "why": "Team sustainability",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1217,
+    "cat": "Business",
+    "name": "Marketing Campaign Launch",
+    "why": "Brand visibility",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1218,
+    "cat": "Business",
+    "name": "Product MVP Release",
+    "why": "Innovation validation",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1219,
+    "cat": "Business",
+    "name": "App Store Publishing",
+    "why": "Platform availability",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1220,
+    "cat": "Business",
+    "name": "Data Center Migration",
+    "why": "Infrastructure stability",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1221,
+    "cat": "Business",
+    "name": "Cloud Deployment",
+    "why": "Scalable operations",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1222,
+    "cat": "Business",
+    "name": "Cyber Security Audit",
+    "why": "Digital protection",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1223,
+    "cat": "Business",
+    "name": "First Profit Month",
+    "why": "Financial milestone",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1224,
+    "cat": "Business",
+    "name": "Tax Filing Completion",
+    "why": "Compliance closure",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1225,
+    "cat": "Business",
+    "name": "Annual Financial Closing",
+    "why": "Yearly accounting",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1226,
+    "cat": "Business",
+    "name": "Board Meeting Opening",
+    "why": "Strategic governance",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1227,
+    "cat": "Business",
+    "name": "Investor Pitch Day",
+    "why": "Capital acquisition",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1228,
+    "cat": "Business",
+    "name": "Funding Round Closure",
+    "why": "Growth capital",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1229,
+    "cat": "Business",
+    "name": "Shareholder Meeting",
+    "why": "Ownership alignment",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1230,
+    "cat": "Business",
+    "name": "IPO Filing",
+    "why": "Public listing start",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1231,
+    "cat": "Business",
+    "name": "Merger Agreement Signing",
+    "why": "Corporate expansion",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1232,
+    "cat": "Business",
+    "name": "Acquisition Completion",
+    "why": "Market consolidation",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1233,
+    "cat": "Business",
+    "name": "New Warehouse Opening",
+    "why": "Logistics capacity",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1234,
+    "cat": "Business",
+    "name": "Fleet Vehicle Induction",
+    "why": "Distribution start",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1235,
+    "cat": "Business",
+    "name": "Retail Counter Opening",
+    "why": "Customer interface",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1236,
+    "cat": "Business",
+    "name": "First Export Shipment",
+    "why": "Global entry",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1237,
+    "cat": "Business",
+    "name": "Quality Certification",
+    "why": "Process credibility",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1238,
+    "cat": "Business",
+    "name": "Customer Support Center Launch",
+    "why": "Service readiness",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1239,
+    "cat": "Business",
+    "name": "Franchise Grant",
+    "why": "Business replication",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1240,
+    "cat": "Business",
+    "name": "Succession Planning Session",
+    "why": "Continuity assurance",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1241,
+    "cat": "Business",
+    "name": "Business Exit Completion",
+    "why": "Founder transition",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1242,
+    "cat": "Business",
+    "name": "Enterprise Anniversary",
+    "why": "Organizational memory",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1243,
+    "cat": "Business",
+    "name": "Company Dissolution",
+    "why": "Formal closure",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1244,
+    "cat": "Business",
+    "name": "Final Compliance Filing",
+    "why": "Legal completion",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1245,
+    "cat": "Business",
+    "name": "Employee Farewell Ceremony",
+    "why": "Human closure",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1246,
+    "cat": "Business",
+    "name": "Brand Repositioning Launch",
+    "why": "Market renewal",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1247,
+    "cat": "Business",
+    "name": "Strategic Roadmap Release",
+    "why": "Future alignment",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1300,
+    "cat": "Environment",
+    "name": "Tree Plantation Ceremony",
+    "why": "Increase green cover",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1301,
+    "cat": "Environment",
+    "name": "Sacred Grove Protection Day",
+    "why": "Preserve native ecology",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1302,
+    "cat": "Environment",
+    "name": "River Cleanup Start",
+    "why": "Water purity",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1303,
+    "cat": "Environment",
+    "name": "Rainwater Harvesting Setup",
+    "why": "Water conservation",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1304,
+    "cat": "Environment",
+    "name": "Well / Borewell Recharge Ceremony",
+    "why": "Groundwater revival",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1305,
+    "cat": "Environment",
+    "name": "Composting Unit Activation",
+    "why": "Organic waste recycling",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1306,
+    "cat": "Environment",
+    "name": "Plastic-Free Drive Launch",
+    "why": "Reduce pollution",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1307,
+    "cat": "Environment",
+    "name": "Community Cleanliness Campaign",
+    "why": "Public hygiene",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1308,
+    "cat": "Environment",
+    "name": "Solar Panel Installation",
+    "why": "Renewable energy adoption",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1309,
+    "cat": "Environment",
+    "name": "Biogas Plant Opening",
+    "why": "Clean fuel generation",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1310,
+    "cat": "Environment",
+    "name": "Lake Restoration Start",
+    "why": "Aquatic ecosystem revival",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1311,
+    "cat": "Environment",
+    "name": "Native Seed Distribution",
+    "why": "Biodiversity protection",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1312,
+    "cat": "Environment",
+    "name": "Organic Farming Adoption",
+    "why": "Chemical-free food",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1313,
+    "cat": "Environment",
+    "name": "Kitchen Garden Setup",
+    "why": "Home food security",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1314,
+    "cat": "Environment",
+    "name": "Animal Shelter Support Day",
+    "why": "Compassion to beings",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1315,
+    "cat": "Environment",
+    "name": "Bird Feeder Installation",
+    "why": "Urban wildlife care",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1316,
+    "cat": "Environment",
+    "name": "Cow Feeding Ceremony",
+    "why": "Gratitude to cattle",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1317,
+    "cat": "Environment",
+    "name": "Soil Health Testing Day",
+    "why": "Land sustainability",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1318,
+    "cat": "Environment",
+    "name": "E-Waste Collection Drive",
+    "why": "Safe electronics disposal",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1319,
+    "cat": "Environment",
+    "name": "Recycling Center Opening",
+    "why": "Resource recovery",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1320,
+    "cat": "Environment",
+    "name": "Forest Walk Awareness Day",
+    "why": "Nature connection",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1321,
+    "cat": "Environment",
+    "name": "Zero-Waste Event Start",
+    "why": "Sustainable gathering",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1322,
+    "cat": "Environment",
+    "name": "Water Body Aarti / Prayer",
+    "why": "Honor water sources",
+    "ref": "Tradition",
+    "textual_classification": "Folk"
+  },
+  {
+    "id": 1323,
+    "cat": "Environment",
+    "name": "Climate Awareness Program",
+    "why": "Future responsibility",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1324,
+    "cat": "Environment",
+    "name": "Community Tree Adoption",
+    "why": "Long-term care",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1325,
+    "cat": "Environment",
+    "name": "Green Building Completion",
+    "why": "Eco-friendly construction",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  },
+  {
+    "id": 1326,
+    "cat": "Environment",
+    "name": "Earth Gratitude Day",
+    "why": "Respect planet",
+    "ref": "Smriti",
+    "textual_classification": "Smriti"
+  },
+  {
+    "id": 1327,
+    "cat": "Environment",
+    "name": "Annual Sustainability Review",
+    "why": "Measure impact",
+    "ref": "Modern Custom",
+    "textual_classification": "Modern"
+  }
+]
